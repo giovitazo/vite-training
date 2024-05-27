@@ -18,5 +18,9 @@
   },
   "files.associations": {
     "*.css": "tailwindcss"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.5.2",
+    "ionicons": "^7.4.0"
   }
 }

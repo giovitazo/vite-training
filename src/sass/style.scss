@@ -1,6 +1,3 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-@import "./components/reseter.scss";
-@import "./components/fonts.scss";
+@import "./globals/fonts";
+@import "./globals/vars";
+@import "./globals/tailwind";
